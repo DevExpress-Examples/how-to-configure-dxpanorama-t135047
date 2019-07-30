@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxPanorama
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t135047)**
+**[[Run Online]](https://codecentral.devexpress.com/t135047/)**
 <!-- run online end -->
 
 
