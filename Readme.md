@@ -1,15 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# How to configure dxPanorama
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t135047/)**
-<!-- run online end -->
-
-
-This is the project that you will get if you go through the <a href="http://www.youtube.com/watch?v=zVDFC0BuGG0&list=PL8h4jt35t1wjGvgflbHEH_e3b23AA30-z&index=19">DevExpress DevExtreme - HTML5 Panorama</a> video tutorial.
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
